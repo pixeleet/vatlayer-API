@@ -241,7 +241,7 @@ In the United Kingdom there is no VAT rate applying to `medical` products, there
   "country_name": "United Kingdom",
   "price_excl_vat": 125,
   "price_incl_vat": 125,
-  "type": "medical"
+  "type": "medical",
   "vat_rate": 0
 }    
 ```
